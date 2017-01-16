@@ -1,0 +1,19 @@
+{
+  "name": "sims",
+  "version": "1.0.0",
+  "description": "Virtual people for simcity automated test demo",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/dtsopra/sims.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dtsopra/sims#readme",
+  "dependencies": {
+    "decache": "^4.1.0"
+  }
+}
