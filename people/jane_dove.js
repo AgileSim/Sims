@@ -7,7 +7,7 @@ let guy = {
   "email": "jane.dove@soprasteria.com",
   "credentials": {
     "username": "janedove",
-    "password": "sopra"
+    "password": "banktrix"
   },
   "products": {
     "accounts": ['savings',],
